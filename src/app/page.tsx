@@ -9,9 +9,9 @@ export default function HomePage() {
   const { completedTasks, incompleteTasks, isLoaded } = useTasks();
 
   const profileData = {
-    name: "Alex Starr",
-    email: "alex.starr@example.com",
-    avatarUrl: "https://placehold.co/128x128.png?text=AS" 
+    name: "Yugansh Singh",
+    email: "YuganshSingh_2004@outlook.com",
+    avatarUrl: "https://placehold.co/128x128.png?text=YS" 
   };
 
   return (
